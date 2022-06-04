@@ -36,8 +36,8 @@ And over +77k credits of actors and directors on Netflix titles with 5 columns c
 
 Tasks
 
-        Developing a content-based recommender system using the genres and/or descriptions.
-        Identifying the main content available on the streaming.
-        Network analysis on the cast of the titles.
-        Exploratory data analysis to find interesting insights.
+       -  Developing a content-based recommender system using the genres and/or descriptions.
+       -  Identifying the main content available on the streaming.
+       -  Network analysis on the cast of the titles.
+       -  Exploratory data analysis to find interesting insights.
 
